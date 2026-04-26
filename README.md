@@ -2,17 +2,34 @@
 
 My solutions to LeetCode problems, written in Python.
 
+## Hash Map
 | # | Problem | Solution |
 |---|---------|----------|
-| 1 | Two Sum | [Python](1.two-sum.py) |
-| 6 | Zigzag Conversion | [Python](6.zigzag-conversion.py) |
-| 11 | Container With Most Water | [Python](11.container-with-most-water.py) |
-| 13 | Roman to Integer | [Python](13.roman-to-integer.py) |
-| 15 | 3Sum | [Python](15.3-sum.py) |
-| 28 | Find the Index of the First Occurrence in a String | [Python](28.find-the-index-of-the-first-occurrence-in-a-string.py) |
-| 55 | Jump Game | [Python](55.jump-game.py) |
-| 151 | Reverse Words in a String | [Python](151.reverse-words-in-a-string.py) |
-| 167 | Two Sum II - Input Array Is Sorted | [Python](167.two-sum-ii-input-array-is-sorted.py) |
-| 238 | Product of Array Except Self | [Python](238.product-of-array-except-self.py) |
-| 274 | H-Index | [Python](274.h-index.py) |
-| 392 | Is Subsequence | [Python](392.is-subsequence.py) |
+| 1 | Two Sum | [Python](hash-map/1.two-sum.py) |
+| 13 | Roman to Integer | [Python](hash-map/13.roman-to-integer.py) |
+
+## Two Pointers
+| # | Problem | Solution |
+|---|---------|----------|
+| 11 | Container With Most Water | [Python](two-pointers/11.container-with-most-water.py) |
+| 15 | 3Sum | [Python](two-pointers/15.3-sum.py) |
+| 167 | Two Sum II - Input Array Is Sorted | [Python](two-pointers/167.two-sum-ii-input-array-is-sorted.py) |
+| 392 | Is Subsequence | [Python](two-pointers/392.is-subsequence.py) |
+
+## String
+| # | Problem | Solution |
+|---|---------|----------|
+| 6 | Zigzag Conversion | [Python](string/6.zigzag-conversion.py) |
+| 28 | Find the Index of the First Occurrence in a String | [Python](string/28.find-the-index-of-the-first-occurrence-in-a-string.py) |
+| 151 | Reverse Words in a String | [Python](string/151.reverse-words-in-a-string.py) |
+
+## Array
+| # | Problem | Solution |
+|---|---------|----------|
+| 238 | Product of Array Except Self | [Python](array/238.product-of-array-except-self.py) |
+| 274 | H-Index | [Python](array/274.h-index.py) |
+
+## Greedy
+| # | Problem | Solution |
+|---|---------|----------|
+| 55 | Jump Game | [Python](greedy/55.jump-game.py) |
