@@ -35,6 +35,12 @@ My solutions to LeetCode problems, written in Python.
 | 3 | Longest Substring Without Repeating Characters | [Python](sliding-window/3.longest-substring-without-repeating-characters.py) |
 | 209 | Minimum Size Subarray Sum | [Python](sliding-window/209.minimum-size-subarray-sum.py) |
 
+## Matrix
+| # | Problem | Solution |
+|---|---------|----------|
+| 36 | Valid Sudoku | [Python](matrix/36.valid-sudoku.py) |
+| 54 | Spiral Matrix | [Python](matrix/54.spiral-matrix.py) |
+
 ## Greedy
 | # | Problem | Solution |
 |---|---------|----------|
