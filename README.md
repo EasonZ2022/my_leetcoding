@@ -39,7 +39,9 @@ My solutions to LeetCode problems, written in Python.
 | # | Problem | Solution |
 |---|---------|----------|
 | 36 | Valid Sudoku | [Python](matrix/36.valid-sudoku.py) |
+| 48 | Rotate Image | [Python](matrix/48.rotate-image.py) |
 | 54 | Spiral Matrix | [Python](matrix/54.spiral-matrix.py) |
+| 73 | Set Matrix Zeroes | [Python](matrix/73.set-matrix-zeroes.py) |
 
 ## Greedy
 | # | Problem | Solution |
