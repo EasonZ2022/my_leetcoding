@@ -28,26 +28,26 @@
             
 #         return res
         
-# 解法2:
+# 解法2: 记录last seen的位置: can fast forward the l to "last seen position" + 1
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         seen = {}
         res = 0
         l = 0
         for r in range(len(s)):
-            # if (s[r] not in seen) or (l > seen[s[r]]):
-            #     seen[s[r]] = r
-            #     res = max(res, r - l + 1)
-            # else:
-            #     # it has been seen and within range
-            #     l = seen[s[r]] + 1
-            #     seen[s[r]] = r
+            if (s[r] not in seen) or (l > seen[s[r]]):
+                seen[s[r]] = r
+                res = max(res, r - l + 1)
+            else:
+                # it has been seen and within range
+                l = seen[s[r]] + 1
+                seen[s[r]] = r
 
             # 我的第一版逻辑，可以被simplify为：
-            if (s[r] in seen) and (l <= seen[s[r]]):
-                l = seen[s[r]] + 1
-            seen[s[r]] = r
-            res = max(res, r - l + 1)
+            # if (s[r] in seen) and (l <= seen[s[r]]): # has been seen
+            #     l = seen[s[r]] + 1
+            # seen[s[r]] = r
+            # res = max(res, r - l + 1)
         return res
 
 # @lc code=end

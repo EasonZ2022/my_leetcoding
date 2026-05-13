@@ -33,7 +33,10 @@ My solutions to LeetCode problems, written in Python.
 | # | Problem | Solution |
 |---|---------|----------|
 | 3 | Longest Substring Without Repeating Characters | [Python](sliding-window/3.longest-substring-without-repeating-characters.py) |
+| 121 | Best Time to Buy and Sell Stock | [Python](sliding-window/121.best-time-to-buy-and-sell-stock.py) |
 | 209 | Minimum Size Subarray Sum | [Python](sliding-window/209.minimum-size-subarray-sum.py) |
+| 424 | Longest Repeating Character Replacement | [Python](sliding-window/424.longest-repeating-character-replacement.py) |
+| 567 | Permutation in String | [Python](sliding-window/567.permutation-in-string.py) |
 
 ## Matrix
 | # | Problem | Solution |
