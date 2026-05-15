@@ -46,6 +46,15 @@ My solutions to LeetCode problems, written in Python.
 | 54 | Spiral Matrix | [Python](matrix/54.spiral-matrix.py) |
 | 73 | Set Matrix Zeroes | [Python](matrix/73.set-matrix-zeroes.py) |
 
+## Stack
+| # | Problem | Solution |
+|---|---------|----------|
+| 20 | Valid Parentheses | [Python](stack/20.valid-parentheses.py) |
+| 150 | Evaluate Reverse Polish Notation | [Python](stack/150.evaluate-reverse-polish-notation.py) |
+| 155 | Min Stack | [Python](stack/155.min-stack.py) |
+| 739 | Daily Temperatures | [Python](stack/739.daily-temperatures.py) |
+| 853 | Car Fleet | [Python](stack/853.car-fleet.py) |
+
 ## Greedy
 | # | Problem | Solution |
 |---|---------|----------|
