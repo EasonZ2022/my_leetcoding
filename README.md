@@ -7,6 +7,9 @@ My solutions to LeetCode problems, written in Python.
 |---|---------|----------|
 | 1 | Two Sum | [Python](hash-map/1.two-sum.py) |
 | 13 | Roman to Integer | [Python](hash-map/13.roman-to-integer.py) |
+| 49 | Group Anagrams | [Python](hash-map/49.group-anagrams.py) |
+| 128 | Longest Consecutive Sequence | [Python](hash-map/128.longest-consecutive-sequence.py) |
+| 217 | Contains Duplicate | [Python](hash-map/217.contains-duplicate.py) |
 
 ## Two Pointers
 | # | Problem | Solution |
@@ -22,6 +25,7 @@ My solutions to LeetCode problems, written in Python.
 | 6 | Zigzag Conversion | [Python](string/6.zigzag-conversion.py) |
 | 28 | Find the Index of the First Occurrence in a String | [Python](string/28.find-the-index-of-the-first-occurrence-in-a-string.py) |
 | 151 | Reverse Words in a String | [Python](string/151.reverse-words-in-a-string.py) |
+| 271 | Encode and Decode Strings | [Python](string/271.encode-and-decode-strings.py) |
 
 ## Array
 | # | Problem | Solution |

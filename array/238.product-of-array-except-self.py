@@ -6,6 +6,7 @@
 
 # @lc code=start
 class Solution:
+# 从右到左，再从左到右，in place记录：对于这个位置[i]，右边的所有product，然后左边所有的product
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         n = len(nums)
         res = [1] * n

@@ -5,7 +5,7 @@
 #
 
 # @lc code=start
-# 这题takeaway：1/用tuple作为key的思想 2/如何用python语法
+# 这题takeaway：1/用tuple作为key的思想 2/如何用python语法: defaultdict()
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         rows = defaultdict(set)
